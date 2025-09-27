@@ -11,6 +11,7 @@ It supports adding, listing, toggling, editing, and removing todos — all store
 - Toggle completed state
 - Edit todo text
 - Remove todos
+- Clear todos
 - Colorful CLI output
 
 ---
@@ -18,7 +19,7 @@ It supports adding, listing, toggling, editing, and removing todos — all store
 ## 📦 Installation
 Clone the repo:
 ```bash
-git clone https://github.com/YOUR-USERNAME/ts-todo-cli.git
+git clone https://github.com/SalahEddine-Ra/ts-todo-cli.git
 cd ts-todo-cli
 npm install
 
