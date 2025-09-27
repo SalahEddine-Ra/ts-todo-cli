@@ -1,0 +1,13 @@
+{
+  // Visit https://aka.ms/tsconfig to read more about this file
+  "compilerOptions": {
+    "target": "ES2020",            // use modern JS features but safe for Node
+  "module": "CommonJS",          // Node understands this
+  "rootDir": "./src",            // our TypeScript source files
+  "outDir": "./dist",            // compiled JavaScript goes here
+  "strict": true,                // enables all strict type-checking options
+  "esModuleInterop": true,       // makes importing libraries smoother
+  "forceConsistentCasingInFileNames": true,
+  "skipLibCheck": true
+  }
+}
